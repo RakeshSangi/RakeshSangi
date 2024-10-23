@@ -1,9 +1,18 @@
 - 👋 Hi, I’m **@RakeshSangi**
-- 👀 I’m interested in ... **cloud and devops technologies.**
+- 👀 I’m working on ... **cloud and devops technologies.**
 - 📫 E-mail : **sangi.rakesh2012@gmail.com**
 - **Professional Summery** :
-            **4.8+** years experienced & result oriented DevOps Engineer possessing in-depth experience of managing cloud-based technology & effectively handling configuration & deployment of infrastructure & services. Gained hands-on experience in implementing core DevOps concepts such as containerization, virtualization, version control, cloud computing, CI/CD pipeline, load balancing, etc. by using a wide variety of technologies while working with multiple DBMS, Operating Systems & multiple devops tool, Drives excellence in projects to deliver outstanding results.
-- **Proﬁcient in**: Docker, Kubernetes, GIT, Jenkins, Terraform, ServiceNow, MS-SharePoint, AWS cloud, Grafana, Linux, IBM websphere, IBM DB2 DB, IBM connect direct, EKS, load balancing, Java, bash script, Ansible, Microfoucs.
+            Result-driven Senior DevOps Engineer with 5 years of experience in managing cloud-based
+technologies and infrastructure. Proven expertise in cloud computing, containerization, CI/CD
+pipelines, and IBM DB2 database management. Skilled in leveraging automation tools such as
+Docker, Kubernetes, Jenkins, and Terraform to streamline processes. Demonstrated success in
+AWS cloud migration, infrastructure automation, and implementing high availability and
+disaster recovery (HADR) systems. Adept at collaborating with cross-functional teams to deliver
+scalable, secure, and reliable deployments, ensuring optimal system performance and uptime.
+
+**Key skills : Docker, Kubernetes, GIT, Jenkins, EKS, ServiceNow, AWS, Grafana, Linux, Apache Directory
+studio(LDAP),load balancing, WebSphere, IBM DB2 DB, Bash script, MS-SharePoint automation.**
+
   
 <!---
 RakeshSangi/RakeshSangi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
